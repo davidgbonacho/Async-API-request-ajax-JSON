@@ -1,6 +1,6 @@
 
 # Asynchronous API Request - AJAX - JSON
-How to make a service with PHP and make a ajax request with json from JS to catch data from a PHP service.
+How to make a service with PHP and make an ajax request with json from JS to catch data from a PHP service.
 
 `[SimPIL are a series of ultra-simple examples of how to perform different operations with code. Uncomplicated.]`
 
