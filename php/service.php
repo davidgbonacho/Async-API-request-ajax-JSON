@@ -1,7 +1,7 @@
 <?php
 
 /**
- * PHP as a service
+ * PHP as a service - retreive data as JSON
  * @author Tizedit - David G. bonacho
  */
 
