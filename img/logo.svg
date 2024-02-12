@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-
-<svg version="1.0" id="iconos" xmlns="http://www.w3.org/2000/svg" width="200" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 198.3 58.2" enable-background="new 0 0 198.3 58.2" xml:space="preserve">
+<svg version="1.0" id="iconos" xmlns="http://www.w3.org/2000/svg" width="200"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	viewBox="0 0 198.3 58.2" enable-background="new 0 0 198.3 58.2" xml:space="preserve">
+	 <style type="text/css">
+		.st0{fill:#C4C4C4;}
+	</style>
 <path fill="#FFFFFF" d="M85.5,51.2v-3.1l14.3-25.2H85.4v-6.8c3.3,0,17.2,0,20.5,0c0.5,0,2.5-0.1,2.5,2.6c0,1,0,2,0,3L94.3,47h14.3
 	v7.2c-6.1,0-14.1,0-20.2,0C85.3,54.3,85.5,52,85.5,51.2"/>
 <path fill="#FFFFFF" d="M74.9,54.3V24.7h7.7v29.6H74.9"/>
