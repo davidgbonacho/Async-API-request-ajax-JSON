@@ -21,6 +21,6 @@ Al hacer clic en el botón `call`, se realizará una solicitud al servicio PHP y
 
 ![](img/logo.svg)
 ---
-`título:` Petición asíncrona a API - AJAX - JSON [`SimPIL`] 09/01/24\
+`título:` Petición asíncrona a API - AJAX - JSON  09/01/24\
 `autor:` David G. Bonacho &nbsp;&nbsp;  [www.tizedit.com](https://www.tizedit.com)
 

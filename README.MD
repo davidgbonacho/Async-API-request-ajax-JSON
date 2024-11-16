@@ -22,6 +22,6 @@ By clicking on the `call` button, a fetch for the PHP service will be carried ou
 
 ![](img/logo.svg)
 ---
-`título:` Asynchronous API Request - AJAX - JSON [`SimPIL`] 01/09/24\
+`título:` Asynchronous API Request - AJAX - JSON  01/09/24\
 `autor:` David G. Bonacho &nbsp;&nbsp;  [www.tizedit.com](https://www.tizedit.com)
 
