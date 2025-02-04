@@ -18,6 +18,7 @@ Al hacer clic en el botón `call`, se realizará una solicitud al servicio PHP y
 - `css/style.css`: una hoja de estilo CSS ultra-sencilla
 - `img/logo.svg`: solo las imágenes importantes están aquí
 
+[Text in English here](README.MD)
 
 ![](img/logo.svg)
 ---
